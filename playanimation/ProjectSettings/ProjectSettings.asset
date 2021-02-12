@@ -402,11 +402,11 @@ PlayerSettings:
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings:
   - m_BuildTarget: Android
-    m_Enabled: 1
+    m_Enabled: 0
     m_Devices:
     - Oculus
   - m_BuildTarget: Windows Store Apps
-    m_Enabled: 1
+    m_Enabled: 0
     m_Devices: []
   - m_BuildTarget: N3DS
     m_Enabled: 0
@@ -428,7 +428,7 @@ PlayerSettings:
     m_Enabled: 0
     m_Devices: []
   - m_BuildTarget: Standalone
-    m_Enabled: 1
+    m_Enabled: 0
     m_Devices:
     - Oculus
   - m_BuildTarget: Tizen
